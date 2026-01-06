@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 (DMS)" />
+  </component>
+  <component name="GitLabDefaultAccount">
+    <option name="defaultAccountId" value="be3f1f4d-b53d-477f-a8e8-7a02ea306e39" />
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
